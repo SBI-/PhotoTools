@@ -1,0 +1,7 @@
+.metadata
+*.swp
+*~
+**/Debug
+**/.cproject
+**/.project
+**/.settings
